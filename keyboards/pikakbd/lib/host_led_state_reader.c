@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "crkbd.h"
+#include "pikakbd.h"
 
 char host_led_state_str[24];
 
